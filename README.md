@@ -1,4 +1,4 @@
-!~!README!~!
+README
 
 Feel free to use and distribute as you wish; this is by no means a perfect or fancy-looking script. It was something I threw together to
 help in my work and thought someone might benefit from it.
